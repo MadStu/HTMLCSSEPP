@@ -103,3 +103,8 @@ nav li {
 footer p {
     text-align: center;
 }
+
+#contact div {
+    width: 350px;
+    text-align: right;
+}
