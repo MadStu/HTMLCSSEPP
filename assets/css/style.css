@@ -75,8 +75,9 @@ nav li {
     
 }
 
-.image250 {
-    max-height: 250px;
+#history img {
+    max-height: 150px;
+    border-radius: 10%;
 }
 
 #event-list {
@@ -94,11 +95,7 @@ nav li {
     width: 50%;
     border-style: dashed;
     text-align: center;
-
-
-
     float: left;
-    
     border: 5px solid #5B5842;
     box-sizing: border-box;
 }
