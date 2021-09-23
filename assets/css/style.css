@@ -17,6 +17,11 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: #ff9490;
+    text-decoration: underline;
+}
+
 h1, h2, h3{
     font-family: 'Stardos Stencil', Verdana, Geneva, Tahoma, sans-serif;
 }
