@@ -39,6 +39,16 @@ h3 {
     font-size: 200%;
 }
 
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
 header {
     
 }
@@ -61,6 +71,10 @@ nav li {
     height: 250px;
 }
 
+#history {
+    
+}
+
 .image250 {
     max-height: 250px;
 }
@@ -75,11 +89,20 @@ nav li {
 }
 
 .event-box {
-    display: inline-block;
     height: 100px;
     background-color: rgba(0,0,0, .6);;
-    width: 30%;
+    width: 50%;
     border-style: dashed;
     text-align: center;
-    vertical-align: middle;
+
+
+
+    float: left;
+    
+    border: 5px solid #5B5842;
+    box-sizing: border-box;
+}
+
+footer p {
+    text-align: center;
 }
