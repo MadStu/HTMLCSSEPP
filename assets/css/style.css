@@ -74,8 +74,8 @@ nav li {
     height: 250px;
 }
 
-#history {
-    
+#history div{
+    display: inline-block;
 }
 
 #history img {
