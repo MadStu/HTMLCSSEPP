@@ -76,15 +76,6 @@ nav li {
     height: 250px;
 }
 
-.text-left {
-    max-width: 90%;
-    text-align: left;
-}
-
-.text-right {
-    text-align: right;
-}
-
 #history {
     padding-bottom: 50px;
 }
@@ -98,8 +89,18 @@ nav li {
     border-radius: 10%;
 }
 
+#history-text {
+    max-width: 90%;
+    text-align: left;
+}
+
 #events {
     padding-bottom: 50px;
+}
+
+#events-text {
+    max-width: 90%;
+    text-align: left;
 }
 
 #event-list {
@@ -122,11 +123,11 @@ nav li {
     box-sizing: border-box;
 }
 
-footer p {
-    text-align: center;
-}
-
 #contact div {
     width: 400px;
     text-align: right;
+}
+
+footer p {
+    text-align: center;
 }
