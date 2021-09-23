@@ -81,6 +81,10 @@ nav li {
     text-align: left;
 }
 
+.text-right {
+    text-align: right;
+}
+
 #history {
     padding-bottom: 50px;
 }
