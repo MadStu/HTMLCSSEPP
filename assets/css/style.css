@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Stardos+Stencil:wght@400;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -13,6 +15,22 @@ body {
 a {
     color: #f3ebd9;
     text-decoration: none;
+}
+
+h1, h2, h3{
+    font-family: 'Stardos Stencil', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 300%;
+}
+
+h2 {
+    font-size: 250%;
+}
+
+h3 {
+    font-size: 200%;
 }
 
 nav li {
