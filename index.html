@@ -48,6 +48,25 @@
         <section id="contact">
             <h2>Contact Me</h2>
             <p>Please fill out out this form if you have any questions or queries about my MT350 or an upcoming event.</p>
+
+            <form action="https://formdump.codeinstitute.net/" method="post">
+                <label for="fname">First Name</label>
+                <input id="fname" class="text-input" type="text" name="first_name" required>
+                <br>
+                <label for="lname">Last Name</label>
+                <input id="lname" class="text-input" type="text"  name="last_name" required>
+                <br>
+                <label for="email">Email Address</label>
+                <input id="email" class="text-input" type="email" name="email_address" require>
+                <br>
+                <label for="owner">I'm an MT Owner</label>
+                <input id="owner" type="radio" name ="mt_owner" value="owner" require>
+                <label for="not_owner">I do not have an MT</label>
+                <input id="not_owner" type="radio" name="mt_owner" value="not_owner" selected>
+                <br>
+                <input type="submit" value="Send Message">
+            </form>
+            
         </section>
     </main>
 
