@@ -22,9 +22,10 @@ a:hover {
     text-decoration: underline;
 }
 
-h1, h2, h3{
+h1, h2{
     font-family: 'Stardos Stencil', Verdana, Geneva, Tahoma, sans-serif;
     text-transform: uppercase;
+    padding-left: 30px;
 }
 
 h1 {
@@ -36,6 +37,8 @@ h2 {
 }
 
 h3 {
+    font-family: 'Stardos Stencil', Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
     font-size: 200%;
 }
 
