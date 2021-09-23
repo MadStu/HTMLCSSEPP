@@ -76,6 +76,11 @@ nav li {
     height: 250px;
 }
 
+.text-left {
+    max-width: 90%;
+    text-align: left;
+}
+
 #history {
     padding-bottom: 50px;
 }
@@ -118,6 +123,6 @@ footer p {
 }
 
 #contact div {
-    width: 350px;
+    width: 400px;
     text-align: right;
 }
