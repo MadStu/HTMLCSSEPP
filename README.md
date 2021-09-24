@@ -2,7 +2,7 @@
 
 This is an informative website for owners and fans of the Harley-Davidson MT350 motorcycle. Providing a brief history, some gallery photos and lists some annual events that take place. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for current and future MT350 owners.
 
-![Responsive Mockup](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/all-devices-black.png)
+![Responsive Mockup](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/responsive-mockup.png)
 
 ## Features 
 
