@@ -89,7 +89,7 @@ nav li {
 
 #history img {
     max-height: 150px;
-    border-radius: 10%;
+    border-radius: 12px;
 }
 
 #events {
@@ -124,6 +124,26 @@ nav li {
 #contact-form {
     width: 75%;
     text-align: right;
+}
+
+#contact-submit {
+    background-color: #ff9490;
+    border: none;
+    color: #3b3a2b;
+    font-weight: bold;
+    font-family: 'Stardos Stencil', Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    padding: 12px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 12px;
+}
+
+#contact-submit:hover {
+    background-color: #3b3a2b;
+    color: #ff9490;
 }
 
 footer p {
