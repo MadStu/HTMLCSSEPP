@@ -159,3 +159,23 @@ header {
 footer p {
     text-align: center;
 }
+
+/* Media queries */
+
+/* For screen sizes from 900px wide and down */
+@media screen and (max-width: 900px){
+    h1 {
+        font-size: 250%;
+    }
+    
+    h2 {
+        font-size: 180%;
+    }
+    
+    h3 {
+        font-size: 140%;
+    }
+    h4 {
+        font-size: 80%;
+    }
+}
