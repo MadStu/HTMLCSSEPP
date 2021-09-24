@@ -26,7 +26,7 @@ This is an informative website for owners and fans of the Harley-Davidson MT350 
 - __History Section__
 
   - The history section gives the user a brief history about these motorcycles.
-  - The user will also see a selection of images on the motorcycle in various situations.
+  - The user will also see a small gallery of images of the motorcycle in various situations.
 
 ![History Section](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/history-image.png)
 
