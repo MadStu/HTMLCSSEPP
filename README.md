@@ -28,14 +28,14 @@ This is an informative website for owners and fans of the Harley-Davidson MT350 
   - The history section gives the user a brief history about these motorcycles.
   - The user will also see a selection of images on the motorcycle in various situations.
 
-![Club Ethos](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/history-image.png)
+![History Section](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/history-image.png)
 
 - __Events Section__
 
   - This section allows the user to see an overview of our annual events and locations.
   - This section will be updated as more events are held by users.
 
-![Meetup Times](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/events-image.png)
+![Events Section](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/events-image.png)
 
 - __Contact Form__ 
 
@@ -43,14 +43,14 @@ This is an informative website for owners and fans of the Harley-Davidson MT350 
   - The form ensures they have filled out all their details correctly and asks whether they own a motorcycle or not.
   - The submit button is responsive to let the user know they're mouse is in the right place.
 
-![Footer](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/contact-image.png)
+![Contact Form](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/contact-image.png)
 
 - __Footer__
 
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
 - __The Sign Up Page__
 
