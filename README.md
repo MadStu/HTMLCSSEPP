@@ -51,13 +51,9 @@ This is an informative website for owners and fans of the Harley-Davidson MT350 
 
 ![Footer](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/footer-image.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 
-- Another feature idea
+- Add image gallery
 
 ## Testing 
 
