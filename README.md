@@ -90,7 +90,9 @@ The live link can be found here - https://madstu.github.io/HTMLCSSEPP/
 
 - The "Stardos Stencil" font was used from Google Fonts https://fonts.google.com/
 - All text content for the website was written by me.
+- The README.md file is based on the template provided by the Code Institute.
 
 ### Media
 
-- All photographic images are owned by me.
+- All photographic images on the website are owned by me.
+- The responsive mockup image at the top of the README.md was created at https://websitemockupgenerator.com/
