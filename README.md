@@ -25,10 +25,10 @@ This is an informative website for owners and fans of the Harley-Davidson MT350 
 
 - __History section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The history section gives the user a brief history about these motorcycles.
+  - The user will also see a selection of images on the motorcycle in various situations.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Club Ethos](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/history-image.png)
 
 - __Events section__
 
