@@ -61,7 +61,7 @@ nav li {
 /* header and header image */
 
 header {
-    padding-bottom: 50px;
+    padding-bottom: 75px;
 }
 
 #header-image {
@@ -84,7 +84,7 @@ header {
 /* history section */
 
 #history {
-    padding-bottom: 50px;
+    padding-bottom: 75px;
 }
 
 #history img {
@@ -95,7 +95,7 @@ header {
 /* events section */
 
 #events {
-    padding-bottom: 50px;
+    padding-bottom: 75px;
 }
 
 #events-text {
@@ -124,6 +124,10 @@ header {
 }
 
 /* contact section */
+
+#contact {
+    padding-bottom: 75px;
+}
 
 #contact-form {
     width: 75%;
