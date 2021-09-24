@@ -15,7 +15,7 @@ This is an informative website for owners and fans of the Harley-Davidson MT350 
 
 ![Nav Bar](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/nav-bar.png)
 
-- __The landing page image__
+- __The Landing Page Image__
 
   - The landing includes a bold title of the website title name and photograph of the motorcycle being used in a competition.
   - This section tells the user exactly what this website is about.
@@ -23,28 +23,29 @@ This is an informative website for owners and fans of the Harley-Davidson MT350 
 
 ![Landing Page](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/landing-image.png)
 
-- __History section__
+- __History Section__
 
   - The history section gives the user a brief history about these motorcycles.
   - The user will also see a selection of images on the motorcycle in various situations.
 
 ![Club Ethos](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/history-image.png)
 
-- __Events section__
+- __Events Section__
 
   - This section allows the user to see an overview of our annual events and locations.
   - This section will be updated as more events are held by users.
 
 ![Meetup Times](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/events-image.png)
 
-- __The Footer__ 
+- __Contact Form__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The contact form allows users to send me a message if they have questions regarding the motorcycle or events. 
+  - The form ensures they have filled out all their details correctly and asks whether they own a motorcycle or not.
+  - The submit button is responsive to let the user know they're mouse is in the right place.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/contact-image.png)
 
-- __Gallery__
+- __Footer__
 
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
