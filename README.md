@@ -17,9 +17,9 @@ This is an informative website for owners and fans of the Harley-Davidson MT350 
 
 - __The Landing Page Image__
 
-  - The landing includes a bold title of the website title name and photograph of the motorcycle being used in a competition.
-  - This section tells the user exactly what this website is about.
-  - The image stretches the entire length of the screen and no matter what your screen size, you should always be able to see the "Harley-Davidson" name on the side of the bike.
+  - The landing includes a bold title of the website name and photograph of the motorcycle being used in a competition.
+  - This section displays to the user exactly what the subject of this website is about.
+  - The image stretches the entire width of the screen and no matter what your screen size, you should always be able to see the "Harley-Davidson" name on the side of the bike.
 
 ![Landing Page](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/landing-image.png)
 
