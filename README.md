@@ -34,6 +34,7 @@ This is an informative website for owners and fans of the Harley-Davidson MT350 
 
   - This section allows the user to see an overview of our annual events and locations.
   - This section will be updated as more events are held by users.
+  - This section's description also provides a link to the contact form.
 
 ![Events Section](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/events-image.png)
 
