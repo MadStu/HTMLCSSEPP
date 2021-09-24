@@ -53,7 +53,8 @@ This is an informative website for owners and fans of the Harley-Davidson MT350 
 
 ### Features Left to Implement
 
-- Add image gallery
+- Add image gallery.
+- Provide further information about events.
 
 ## Testing 
 
