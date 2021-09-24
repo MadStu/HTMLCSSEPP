@@ -13,16 +13,7 @@ body {
     text-align: center;
 }
 
-a {
-    color: #f3ebd9;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-a:hover {
-    color: #ff9490;
-    text-decoration: underline;
-}
+/* headings */
 
 h1, h2{
     font-family: 'Stardos Stencil', Verdana, Geneva, Tahoma, sans-serif;
@@ -44,18 +35,17 @@ h3 {
     font-size: 200%;
 }
 
-hr { 
-    display: block;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: inset;
-    border-width: 1px;
+/* links and navigation */
+
+a {
+    color: #f3ebd9;
+    text-decoration: none;
+    font-weight: bold;
 }
 
-header {
-    padding-bottom: 50px;
+a:hover {
+    color: #ff9490;
+    text-decoration: underline;
 }
 
 nav {
@@ -68,6 +58,12 @@ nav li {
     padding: 0 5px;
 }
 
+/* header and header image */
+
+header {
+    padding-bottom: 50px;
+}
+
 #header-image {
     background-image: url('../images/325293_2449471126196_614950453_o.jpg');
     background-size: 100%;
@@ -76,12 +72,16 @@ nav li {
     height: 250px;
 }
 
+/* class for the paragraph text */
+
 .text-left {
     max-width: 90%;
     margin: auto;
     text-align: left;
     padding-bottom: 10px;
 }
+
+/* history section */
 
 #history {
     padding-bottom: 50px;
@@ -91,6 +91,8 @@ nav li {
     max-height: 150px;
     border-radius: 12px;
 }
+
+/* events section */
 
 #events {
     padding-bottom: 50px;
@@ -121,6 +123,8 @@ nav li {
     box-sizing: border-box;
 }
 
+/* contact section */
+
 #contact-form {
     width: 75%;
     text-align: right;
@@ -145,6 +149,8 @@ nav li {
     background-color: #3b3a2b;
     color: #ff9490;
 }
+
+/* footer */
 
 footer p {
     text-align: center;
