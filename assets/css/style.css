@@ -88,7 +88,7 @@ header {
 }
 
 #history img {
-    max-height: 150px;
+    max-height: 160px;
     border-radius: 12px;
 }
 
@@ -190,7 +190,7 @@ footer p {
     }
 
     #header-image {
-        height: 180px;
+        height: 150px;
     }
 
     p {
@@ -215,6 +215,11 @@ footer p {
 
     .text-left {
         max-width: 98%;
+    }
+
+    #history img {
+        max-height: 110px;
+        border-radius: 9px;
     }
 
     #contact-form {
