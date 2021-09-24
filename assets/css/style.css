@@ -76,6 +76,13 @@ nav li {
     height: 250px;
 }
 
+.text-left {
+    max-width: 90%;
+    margin: auto;
+    text-align: left;
+    padding-bottom: 10px;
+}
+
 #history {
     padding-bottom: 50px;
 }
@@ -83,12 +90,6 @@ nav li {
 #history img {
     max-height: 150px;
     border-radius: 10%;
-}
-
-.text-left {
-    max-width: 90%;
-    margin: auto;
-    text-align: left;
 }
 
 #events {
@@ -121,7 +122,7 @@ nav li {
 }
 
 #contact-form {
-    width: 400px;
+    width: 75%;
     text-align: right;
 }
 
