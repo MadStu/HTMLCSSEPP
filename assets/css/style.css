@@ -183,8 +183,8 @@ footer p {
     }
 }
 
-/* For screen sizes from 550px wide and down */
-@media screen and (max-width: 550px){
+/* For screen sizes from 570px wide and down */
+@media screen and (max-width: 570px){
     nav a {
         font-size: 75%;
     }
