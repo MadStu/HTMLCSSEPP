@@ -17,19 +17,20 @@ This is an informative website for owners and fans of the Harley-Davidson MT350 
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes a bold title of the website title name and photograph of the motorcycle being used in a competition.
+  - This section tells the user exactly what this website is about.
+  - The image stretches the entire length of the screen and no matter what your screen size, you should always be able to see the "Harley-Davidson" name on the side of the bike.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/landing-image.png)
 
-- __Club Ethos Section__
+- __History section__
 
   - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
   - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+- __Events section__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
