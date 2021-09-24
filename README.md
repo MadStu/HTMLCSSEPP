@@ -32,10 +32,10 @@ This is an informative website for owners and fans of the Harley-Davidson MT350 
 
 - __Events section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section allows the user to see an overview of our annual events and locations.
+  - This section will be updated as more events are held by users.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Meetup Times](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/events-image.png)
 
 - __The Footer__ 
 
