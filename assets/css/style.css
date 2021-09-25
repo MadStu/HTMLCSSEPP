@@ -131,7 +131,8 @@ header {
 }
 
 #contact-form {
-    width: 75%;
+    width: 320px;
+    margin: auto;
     text-align: right;
 }
 
