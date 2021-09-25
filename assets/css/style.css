@@ -130,7 +130,7 @@ header {
 }
 
 #contact-form {
-    width: 320px;
+    width: 300px;
     margin: auto;
     text-align: right;
 }
@@ -188,10 +188,6 @@ footer p {
     .event-box {
         height: 90px;
     }
-
-    #contact-form {
-        width: 85%;
-    }
 }
 
 /* For screen sizes from 570px wide and down */
@@ -231,9 +227,5 @@ footer p {
 
     .event-box {
         height: 85px;
-    }
-
-    #contact-form {
-        width: 98%;
     }
 }
