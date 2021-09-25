@@ -6,7 +6,7 @@ The goal is to provide these users with a brief history about the bike, a few  g
 
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for all users.
 
-![Responsive Mockup](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/responsive-mockup.png)
+![Responsive Mockup](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/responsive-website-mockup.png)
 
 ## Features 
 
