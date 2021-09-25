@@ -119,8 +119,12 @@ header {
     border-style: dashed;
     text-align: center;
     float: left;
-    border: 5px solid #5B5842;
+    border: 3px solid #5B5842;
     box-sizing: border-box;
+}
+
+.event-box:hover {
+    border: 3px solid #ff9490;
 }
 
 /* contact section */
