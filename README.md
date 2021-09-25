@@ -56,7 +56,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
 - __Footer__
 
-  - The footer section simply tells the user who created the website and links externally to the author's github page.
+  - The footer section simply tells the user who created the website and links externally to my github page.
 
 ![Footer](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/footer-image.png)
 
