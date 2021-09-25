@@ -135,6 +135,10 @@ header {
     text-align: right;
 }
 
+#contact-form label:hover {
+    color: #ff9490;
+}
+
 #contact-submit {
     background-color: #ff9490;
     border: none;
