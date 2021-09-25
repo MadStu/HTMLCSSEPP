@@ -61,11 +61,13 @@ nav li {
     padding: 0 5px;
 }
 
-/* header and header image */
+/* padding between sections */
 
-header {
+.section-padding {
     padding-bottom: 75px;
 }
+
+/* header and header image */
 
 #header-image {
     background-image: url('../images/man-riding-mt350-in-a-trials-competition.jpg');
@@ -87,10 +89,6 @@ header {
 
 /* history section */
 
-#history {
-    padding-bottom: 75px;
-}
-
 #history img {
     max-height: 160px;
     border-radius: 12px;
@@ -102,10 +100,6 @@ header {
 }
 
 /* events section */
-
-#events {
-    padding-bottom: 75px;
-}
 
 #events-text {
     max-width: 90%;
@@ -137,10 +131,6 @@ header {
 }
 
 /* contact section */
-
-#contact {
-    padding-bottom: 75px;
-}
 
 #contact-form {
     width: 300px;
@@ -183,11 +173,8 @@ header {
 /* footer */
 
 footer {
+    margin-top: 30px;
     margin-bottom: 30px;
-}
-
-footer p {
-    text-align: center;
 }
 
 /* Media queries */
