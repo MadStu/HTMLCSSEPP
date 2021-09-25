@@ -16,6 +16,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
   - Featured at the top of the page, the full responsive navigation bar includes links to the History, Events and contact sections on the website.
   - This section will allow the user to easily navigate to the section of the page that most interests them. 
+  - The styling changes as you hover and activate each link to give the user positive feedback confirming the action they've taken.
 
 ![Nav Bar](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/nav-bar.png)
 
