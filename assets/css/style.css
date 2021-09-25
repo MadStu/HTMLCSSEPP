@@ -152,6 +152,10 @@ header {
     color: #ff9490;
 }
 
+#contact-form label:active {
+    color: #fcff64;
+}
+
 #contact-submit {
     background-color: #ff9490;
     border: none;
