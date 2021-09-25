@@ -212,6 +212,10 @@ footer {
         height: 150px;
     }
 
+    .section-padding {
+        padding-bottom: 45px;
+    }
+
     p {
         font-size: 85%;
     }
