@@ -32,6 +32,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
   - The history section gives the user a brief history about these motorcycles.
   - The user will also see a small gallery of images of the motorcycle in various situations.
+  - The images border colors change as the user hovers over them.
 
 ![History Section](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/history-image.png)
 
