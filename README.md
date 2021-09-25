@@ -41,6 +41,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
   - This section allows the user to see an overview of our annual events and locations.
   - This section will be updated as more events are held by users.
   - This section's description also provides a link to the contact form.
+  - The event box borders change colour when the user hovers over them.
 
 ![Events Section](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/events-image.png)
 
