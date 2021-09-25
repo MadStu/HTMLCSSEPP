@@ -65,7 +65,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
 I tested the website on a number of browsers and devices and all is working as intended.
 
-The responsive design allows for different screen sizes. 
+The responsive design allows for different screen sizes as proven by using [Responsinator](https://www.responsinator.com/?url=https%3A%2F%2Fmadstu.github.io%2FHTMLCSSEPP%2F)
 
 There was a bug where if the screen became too narrow, the header image would repeat itself vertically but adding no-repeat into CSS solved this.
 
