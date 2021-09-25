@@ -176,6 +176,10 @@ header {
     color: #ff9490;
 }
 
+#contact-submit:active {
+    color: #fcff64;
+}
+
 /* footer */
 
 footer {
