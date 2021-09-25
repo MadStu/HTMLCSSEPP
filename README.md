@@ -6,7 +6,7 @@ The goal is to provide these users with a brief history about the bike, a few  g
 
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for all users.
 
-![Responsive Mockup](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/responsive-website-mockup.png)
+![Responsive Mockup](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/responsive-website-mockup.png)
 
 ## Features 
 
@@ -17,7 +17,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
   - Featured at the top of the page, the full responsive navigation bar includes links to the History, Events and contact sections on the website.
   - This section will allow the user to easily navigate to the section of the page that most interests them. 
 
-![Nav Bar](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/nav-bar.png)
+![Nav Bar](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/nav-bar.png)
 
 - __The Landing Page Image__
 
@@ -25,14 +25,14 @@ It is designed to be responsive and accessible on a range of devices, making it 
   - This section displays to the user exactly what the subject of this website is about.
   - The image stretches the entire width of the screen and no matter what your screen size, you should always be able to see the "Harley-Davidson" name on the side of the bike.
 
-![Landing Page](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/landing-image.png)
+![Landing Page](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/landing-image.png)
 
 - __History Section__
 
   - The history section gives the user a brief history about these motorcycles.
   - The user will also see a small gallery of images of the motorcycle in various situations.
 
-![History Section](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/history-image.png)
+![History Section](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/history-image.png)
 
 - __Events Section__
 
@@ -40,7 +40,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
   - This section will be updated as more events are held by users.
   - This section's description also provides a link to the contact form.
 
-![Events Section](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/events-image.png)
+![Events Section](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/events-image.png)
 
 - __Contact Form__ 
 
@@ -48,13 +48,13 @@ It is designed to be responsive and accessible on a range of devices, making it 
   - The form ensures they have filled out all their details correctly and asks whether they own a motorcycle or not.
   - The submit button is responsive to let the user know they're mouse is in the right place.
 
-![Contact Form](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/contact-image.png)
+![Contact Form](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/contact-image.png)
 
 - __Footer__
 
   - The footer section simply tells the user who created the website and links externally to the author's github page.
 
-![Footer](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/footer-image.png)
+![Footer](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/footer-image.png)
 
 ### Features Left to Implement
 
