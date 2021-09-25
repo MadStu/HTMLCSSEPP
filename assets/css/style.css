@@ -180,9 +180,15 @@ footer p {
     h3 {
         font-size: 140%;
     }
+
     h4 {
         font-size: 80%;
     }
+
+    .event-box {
+        height: 90px;
+    }
+
     #contact-form {
         width: 85%;
     }
@@ -221,6 +227,10 @@ footer p {
     #history img {
         max-height: 110px;
         border-radius: 9px;
+    }
+
+    .event-box {
+        height: 85px;
     }
 
     #contact-form {
