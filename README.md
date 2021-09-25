@@ -49,7 +49,8 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
   - The contact form allows users to send me a message if they have questions regarding the motorcycle or events. 
   - The form ensures they have filled out all their details correctly and asks whether they own a motorcycle or not.
-  - The submit button is responsive to let the user know they're mouse is in the right place.
+  - The input labels are fully responsive giving the user good feedback.
+  - The submit button is responsive to let the user know their mouse is in the right place and when they've submitted the form.
 
 ![Contact Form](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/contact-image.png)
 
