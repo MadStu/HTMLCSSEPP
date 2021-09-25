@@ -186,7 +186,7 @@ footer p {
     }
 
     .event-box {
-        height: 90px;
+        height: 85px;
     }
 }
 
@@ -223,9 +223,5 @@ footer p {
     #history img {
         max-height: 110px;
         border-radius: 9px;
-    }
-
-    .event-box {
-        height: 85px;
     }
 }
