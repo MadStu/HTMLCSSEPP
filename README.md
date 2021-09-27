@@ -107,6 +107,7 @@ The live link can be found here - https://madstu.github.io/HTMLCSSEPP/
 - All text content for the website was written by me.
 - The README.md file structure is based on the template provided by the Code Institute.
 - I often used W3Schools and MDN web Docs as a guide for finding the best solutions and using the code in the correct format.
+- I used [Colormind](http://colormind.io/) to generate an initial colour scheme although I tweaked some of the colours for contrasting reasons. 
 
 ### Media
 
