@@ -18,6 +18,7 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
   - For the main and subsequent headings I chose the "Stardos Stencil" font from [Google Fonts](https://fonts.google.com/specimen/Stardos+Stencil).
   - This font is of a military style which I felt was in keeping with the main subject of the website.
+  - I chose to style the headings that use Stardos Stencil font in uppercase, again to be in-keeping with the military style.
 
 - __Colour Scheme__
 
