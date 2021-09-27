@@ -14,6 +14,12 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
 ### Existing Features
 
+- __Colour Scheme__
+
+  - I intially used the colormind.io to generate a matching colour scheme and which generated some initial colors.
+
+  - I kept the first colour as a background and tweaked the others for contrast reasons.
+
 - __Navigation Bar__
 
   - Featured at the top of the page, the full responsive navigation bar includes links to the History, Events and contact sections on the website.
