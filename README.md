@@ -79,6 +79,8 @@ There was a bug where if the screen became too narrow, the header image would re
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmadstu.github.io%2FHTMLCSSEPP%2F)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmadstu.github.io%2FHTMLCSSEPP%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- Other Tests
+  - No problems were discovered when testing with the WAVE tool [WAVE](https://wave.webaim.org/report#/https://madstu.github.io/HTMLCSSEPP/)
 
 ### Unfixed Bugs
 
