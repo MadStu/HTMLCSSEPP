@@ -14,9 +14,14 @@ It is designed to be responsive and accessible on a range of devices, making it 
 
 ### Existing Features
 
+- __Typography__
+
+  - For the main and subsequent headings I chose the "Stardos Stencil" font from [Google Fonts](https://fonts.google.com/specimen/Stardos+Stencil).
+  - This font is of a military style which I felt was in keeping with the main subject of the website.
+
 - __Colour Scheme__
 
-  - I intially used the colormind.io to generate a matching colour scheme and which generated some initial colors.
+  - I intially used the colormind.io to generate a matching colour scheme which generated some initial colors.
   - I kept the first colour as the main background colour and tweaked the others for contrast reasons. I used 4 colours in total. 
   - Due to the military style of the MT350, I chose to go with a military style colour scheme, with some pink highlights to soften it all a little.
 
