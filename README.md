@@ -100,6 +100,8 @@ There was a bug where if the screen became too narrow, the header image would re
 - Accessibility
   - I confirmed that the colours and fonts chosen are easy to read and accesible by running it through lighthouse in devtools.
 
+![Lighthouse Score](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/lighthouse-score.png)
+
 ### Unfixed Bugs
 
 - None found.
