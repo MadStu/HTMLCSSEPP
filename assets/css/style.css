@@ -192,6 +192,15 @@ footer {
     margin-bottom: 30px;
 }
 
+footer li {
+    display: inline-block;
+    padding: 0 45px;
+}
+
+footer img {
+    height: 48px;
+}
+
 /* Media queries */
 
 /* For screen sizes from 1250px wide and down */
