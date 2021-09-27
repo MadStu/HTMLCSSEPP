@@ -17,8 +17,10 @@ It is designed to be responsive and accessible on a range of devices, making it 
 - __Colour Scheme__
 
   - I intially used the colormind.io to generate a matching colour scheme and which generated some initial colors.
+  - I kept the first colour as the main background colour and tweaked the others for contrast reasons. I used 4 colours in total. 
+  - Due to the military style of the MT350, I chose to go with a military style colour scheme, with some pink highlights to soften it all a little.
 
-  - I kept the first colour as a background and tweaked the others for contrast reasons.
+![Colour Scheme](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/colour-scheme.png)
 
 - __Navigation Bar__
 
