@@ -4,6 +4,8 @@ This is an informative website for owners, fans and people who are curious about
 
 The goal is to provide these users with a brief history about the bike, a few  gallery photos and also to list some annual events that take place so other owners can join in.
 
+The live link can be found here - https://madstu.github.io/HTMLCSSEPP/
+
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for all users.
 
 ![Responsive Mockup](https://raw.githubusercontent.com/MadStu/HTMLCSSEPP/main/assets/images/readme-images/responsive-website-mockup.png)
@@ -103,7 +105,7 @@ The live link can be found here - https://madstu.github.io/HTMLCSSEPP/
 
 - The "Stardos Stencil" font was used from Google Fonts https://fonts.google.com/
 - All text content for the website was written by me.
-- The README.md file is based on the template provided by the Code Institute.
+- The README.md file structure is based on the template provided by the Code Institute.
 
 ### Media
 
