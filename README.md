@@ -106,7 +106,7 @@ The live link can be found here - https://madstu.github.io/HTMLCSSEPP/
 - The "Stardos Stencil" font was used from Google Fonts https://fonts.google.com/
 - All text content for the website was written by me.
 - The README.md file structure is based on the template provided by the Code Institute.
-- I often used W3Schools as a guide for finding the best solutions and using the code in the correct format.
+- I often used W3Schools and MDN web Docs as a guide for finding the best solutions and using the code in the correct format.
 
 ### Media
 
