@@ -146,6 +146,14 @@ nav li {
     color: #fcff64;
 }
 
+legend:hover {
+    color: #ff9490;
+}
+
+legend:active {
+    color: #fcff64;
+}
+
 #contact-submit {
     background-color: #ff9490;
     border: none;

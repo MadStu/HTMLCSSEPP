@@ -106,12 +106,14 @@
                     <input id="email" type="email" name="email_address" required>
                     <br>
                     <br>
-                    <label for="owner">I'm an MT Owner</label>
-                    <input id="owner" type="radio" name ="mt_owner" value="owner" required>
-                    <br>
-                    <label for="not_owner">I do not own an MT</label>
-                    <input id="not_owner" type="radio" name="mt_owner" value="not_owner">
-                    <br>
+                    <fieldset>
+                        <legend>Do you own an MT?</legend>
+                        <label for="owner">Yes</label>
+                        <input id="owner" type="radio" name ="mt_owner" value="owner" required>
+                        <br>
+                        <label for="not_owner">No</label>
+                        <input id="not_owner" type="radio" name="mt_owner" value="not_owner">
+                    </fieldset>
                     <br>
                     <label for="message">Enter your message:</label>
                     <br>
