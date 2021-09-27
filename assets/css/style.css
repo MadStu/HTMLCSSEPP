@@ -87,6 +87,11 @@ nav li {
     padding-bottom: 10px;
 }
 
+main {
+    max-width: 1250px;
+    margin: auto;
+}
+
 /* history section */
 
 #history img {
