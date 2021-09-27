@@ -87,6 +87,8 @@ nav li {
     padding-bottom: 10px;
 }
 
+/* limit width and center main body to keep it looking good on larger screens */
+
 main {
     max-width: 1250px;
     margin: auto;
