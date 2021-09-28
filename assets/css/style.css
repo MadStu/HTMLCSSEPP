@@ -275,4 +275,13 @@ footer img {
         max-height: 110px;
         border-radius: 9px;
     }
+
+    footer li {
+        display: inline-block;
+        padding: 0 25px;
+    }
+    
+    footer img {
+        height: 32px;
+    }
 }
