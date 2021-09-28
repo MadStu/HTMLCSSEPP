@@ -108,11 +108,6 @@ main {
 
 /* events section */
 
-#events-text {
-    max-width: 90%;
-    text-align: left;
-}
-
 #event-list {
     background-image: url('../images/mt350-with-no-luggage-or-accessories.jpg');
     background-repeat: no-repeat;
@@ -126,7 +121,6 @@ main {
     height: 100px;
     background-color: rgba(0,0,0, .6);;
     width: 50%;
-    border-style: dashed;
     text-align: center;
     float: left;
     border: 3px solid #5B5842;
